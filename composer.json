@@ -16,10 +16,8 @@
         }
     },
     "require": {
-        "php": "^7.2",
-        "rammastack/langs-to-kurdish-number": "dev-master"
+        "php": "^7.2"
     },
-    "minimum-stability": "dev",
     "require-dev": {
         "phpunit/phpunit": "^9.5"
     },

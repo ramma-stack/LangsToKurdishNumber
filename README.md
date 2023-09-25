@@ -13,7 +13,7 @@ composer require rammastack/langs-to-kurdish-number
 
 To convert a number to Kurdish words using the `Converter` class, follow these steps:
 
-```php
+```bash
 use Converter\Converter;
 
 echo Converter::NumToKu(12345); // Output: "دوازدە هەزار و سێ سەد و چل و پێنج"

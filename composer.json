@@ -15,7 +15,9 @@
             "Gidra\\LangsToKurdishNumber\\": "src/"
         }
     },
-    "require": {},
+    "require": {
+        "php": "^7.2"
+    },
     "minimum-stability": "dev",
     "require-dev": {
         "phpunit/phpunit": "^9.5"

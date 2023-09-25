@@ -1,0 +1,32 @@
+{
+    "name": "rammastack/langs-to-kurdish-number",
+    "description": "This PHP project provides a simple yet powerful utility for converting numerical values into their respective word representations in multiple languages, specifically Kurdish, Arabic, and English. Whether you're dealing with financial documents, generating invoices, or simply enhancing the readability of numbers in your application, this library can help you transform numbers into words with ease.",
+    "type": "library",
+    "keywords": ["number", "words", "converter", "localization"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ramma-stack",
+            "email": "ramear11@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Gidra\\LangsToKurdishNumber\\": "src/"
+        }
+    },
+    "require": {},
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}

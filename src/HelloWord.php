@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace gidra\LangsToKurdishNumber\HelloWorld;
+namespace LangsToKurdishNumber\HelloWorld;
 
 final class HelloWorld
 {
